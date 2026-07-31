@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 9 |
+| 15 | 9 |
 
 ---
 
@@ -16,9 +16,9 @@
 - [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (3)
-- [implementation](#implementation) (10)
-- [math](#math) (4)
+- [greedy](#greedy) (4)
+- [implementation](#implementation) (11)
+- [math](#math) (5)
 - [sortings](#sortings) (2)
 - [strings](#strings) (2)
 
@@ -57,6 +57,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 1669C | [Odd/Even Increments](https://codeforces.com/contest/1669/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/1669/C%20-%20Odd%2FEven%20Increments/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 
@@ -74,6 +75,7 @@
 | 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.cpp) |
 | 233A | [Perfect Permutation](https://codeforces.com/contest/233/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/233/A%20-%20Perfect%20Permutation/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 1669C | [Odd/Even Increments](https://codeforces.com/contest/1669/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/1669/C%20-%20Odd%2FEven%20Increments/solution.cpp) |
 
 ### math
 
@@ -82,6 +84,7 @@
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
 | 233A | [Perfect Permutation](https://codeforces.com/contest/233/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/233/A%20-%20Perfect%20Permutation/solution.cpp) |
+| 1669C | [Odd/Even Increments](https://codeforces.com/contest/1669/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/1669/C%20-%20Odd%2FEven%20Increments/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 
 ### sortings
