@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/672/problem/A" target="_blank" rel="noopener noreferrer">672A — Summer Camp</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 672A](https://codeforces.com/contest/672/problem/A) |
+
+## Topics
+`implementation`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Summer Camp</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Every year, hundreds of people come to summer camps, they learn new algorithms and solve hard problems.</p><p>This is your first year at summer camp, and you are asked to solve the following problem. All integers starting with <span class="tex-span">1</span> are written in one line. The prefix of these line is "<span class="tex-font-style-tt">123456789101112131415...</span>". Your task is to print the <span class="tex-span"><i>n</i></span>-th digit of this string (digits are numbered starting with <span class="tex-span">1</span>.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The only line of the input contains a single integer <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 1000</span>) — the position of the digit you need to print.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print the <span class="tex-span"><i>n</i></span>-th digit of the line.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id000817905155418911" id="id0046400028570311214" class="input-output-copier">Copy</div></div><pre id="id000817905155418911">3<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id00706181495513563" id="id007359713353095474" class="input-output-copier">Copy</div></div><pre id="id00706181495513563">3<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id00756790024037422" id="id0005222767927978922" class="input-output-copier">Copy</div></div><pre id="id00756790024037422">11<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id005518956490854446" id="id009577030626925701" class="input-output-copier">Copy</div></div><pre id="id005518956490854446">0<br></pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first sample the digit at position <span class="tex-span">3</span> is '<span class="tex-font-style-tt">3</span>', as both integers <span class="tex-span">1</span> and <span class="tex-span">2</span> consist on one digit.</p><p>In the second sample, the digit at position <span class="tex-span">11</span> is '<span class="tex-font-style-tt">0</span>', it belongs to the integer <span class="tex-span">10</span>.</p></div>
