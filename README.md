@@ -6,21 +6,25 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 9 |
+| 29 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (5)
-- [constructive algorithms](#constructive-algorithms) (1)
+- [binary search](#binary-search) (1)
+- [brute force](#brute-force) (8)
+- [constructive algorithms](#constructive-algorithms) (3)
+- [games](#games) (1)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (4)
-- [implementation](#implementation) (11)
-- [math](#math) (5)
-- [sortings](#sortings) (2)
-- [strings](#strings) (2)
+- [graphs](#graphs) (1)
+- [greedy](#greedy) (5)
+- [implementation](#implementation) (19)
+- [math](#math) (10)
+- [number theory](#number-theory) (2)
+- [sortings](#sortings) (3)
+- [strings](#strings) (6)
 
 ---
 
@@ -30,14 +34,23 @@
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
+
 ### brute force
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 47A | [Triangular numbers](https://codeforces.com/contest/47/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/47/A%20-%20Triangular%20numbers/solution.cpp) |
 | 181A | [Series of Crimes](https://codeforces.com/contest/181/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/181/A%20-%20Series%20of%20Crimes/solution.cpp) |
 | 214A | [System of Equations](https://codeforces.com/contest/214/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/214/A%20-%20System%20of%20Equations/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
+| 755A | [PolandBall and Hypothesis](https://codeforces.com/contest/755/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/755/A%20-%20PolandBall%20and%20Hypothesis/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 
 ### constructive algorithms
@@ -45,6 +58,14 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
+| 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
 ### geometry
 
@@ -52,12 +73,19 @@
 |---|---------|------------|----------|
 | 181A | [Series of Crimes](https://codeforces.com/contest/181/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/181/A%20-%20Series%20of%20Crimes/solution.cpp) |
 
+### graphs
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 755A | [PolandBall and Hypothesis](https://codeforces.com/contest/755/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/755/A%20-%20PolandBall%20and%20Hypothesis/solution.cpp) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 1669C | [Odd/Even Increments](https://codeforces.com/contest/1669/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/1669/C%20-%20Odd%2FEven%20Increments/solution.cpp) |
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 
@@ -65,6 +93,10 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
+| 49A | [Sleuth](https://codeforces.com/contest/49/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/49/A%20-%20Sleuth/solution.cpp) |
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/59/A%20-%20Word/solution.cpp) |
+| 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.cpp) |
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/136/A%20-%20Presents/solution.cpp) |
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.cpp) |
 | 146A | [Lucky Ticket](https://codeforces.com/contest/146/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/146/A%20-%20Lucky%20Ticket/solution.cpp) |
@@ -75,31 +107,52 @@
 | 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.cpp) |
 | 233A | [Perfect Permutation](https://codeforces.com/contest/233/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/233/A%20-%20Perfect%20Permutation/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 599A | [Patrick and Shopping](https://codeforces.com/contest/599/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/599/A%20-%20Patrick%20and%20Shopping/solution.cpp) |
+| 746A | [Compote](https://codeforces.com/contest/746/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/746/A%20-%20Compote/solution.cpp) |
+| 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
 | 1669C | [Odd/Even Increments](https://codeforces.com/contest/1669/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/1669/C%20-%20Odd%2FEven%20Increments/solution.cpp) |
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 47A | [Triangular numbers](https://codeforces.com/contest/47/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/47/A%20-%20Triangular%20numbers/solution.cpp) |
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
 | 233A | [Perfect Permutation](https://codeforces.com/contest/233/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/233/A%20-%20Perfect%20Permutation/solution.cpp) |
+| 746A | [Compote](https://codeforces.com/contest/746/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/746/A%20-%20Compote/solution.cpp) |
+| 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
+| 755A | [PolandBall and Hypothesis](https://codeforces.com/contest/755/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/755/A%20-%20PolandBall%20and%20Hypothesis/solution.cpp) |
 | 1669C | [Odd/Even Increments](https://codeforces.com/contest/1669/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/1669/C%20-%20Odd%2FEven%20Increments/solution.cpp) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 755A | [PolandBall and Hypothesis](https://codeforces.com/contest/755/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/755/A%20-%20PolandBall%20and%20Hypothesis/solution.cpp) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
 ### sortings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.cpp) |
+| 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 
 ### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/59/A%20-%20Word/solution.cpp) |
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 
 ---
 
