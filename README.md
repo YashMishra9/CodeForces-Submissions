@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 248 | 23 |
+| 249 | 23 |
 
 ---
 
@@ -18,14 +18,14 @@
 - [brute force](#brute-force) (54)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (30)
-- [data structures](#data-structures) (6)
+- [data structures](#data-structures) (7)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (4)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (5)
 - [geometry](#geometry) (7)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (68)
+- [greedy](#greedy) (69)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (133)
 - [math](#math) (99)
@@ -173,6 +173,7 @@
 | 1722C | [Word Game](https://codeforces.com/contest/1722/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/1722/C%20-%20Word%20Game/solution.cpp) |
 | 1760C | [Advantage](https://codeforces.com/contest/1760/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/1760/C%20-%20Advantage/solution.cpp) |
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
+| 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.cpp) |
 
 ### dfs and similar
 
@@ -295,6 +296,7 @@
 | 2218C | [The 67th Permutation Problem](https://codeforces.com/contest/2218/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/2218/C%20-%20The%2067th%20Permutation%20Problem/solution.cpp) |
 | 2227B | [Party Monster](https://codeforces.com/contest/2227/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/2227/B%20-%20Party%20Monster/solution.cpp) |
 | 2241C | [RemovevomeR](https://codeforces.com/contest/2241/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/2241/C%20-%20RemovevomeR/solution.cpp) |
+| 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.cpp) |
 
 ### hashing
 
