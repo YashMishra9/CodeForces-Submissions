@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 259 | 23 |
+| 260 | 23 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (56)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (30)
+- [constructive algorithms](#constructive-algorithms) (31)
 - [data structures](#data-structures) (8)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (4)
@@ -29,7 +29,7 @@
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (134)
 - [math](#math) (104)
-- [number theory](#number-theory) (15)
+- [number theory](#number-theory) (16)
 - [probabilities](#probabilities) (1)
 - [sortings](#sortings) (34)
 - [strings](#strings) (38)
@@ -164,6 +164,7 @@
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.cpp) |
 | 2218C | [The 67th Permutation Problem](https://codeforces.com/contest/2218/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/2218/C%20-%20The%2067th%20Permutation%20Problem/solution.cpp) |
 | 2227C | [Snowfall](https://codeforces.com/contest/2227/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/2227/C%20-%20Snowfall/solution.cpp) |
+| 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.cpp) |
 
 ### data structures
 
@@ -579,6 +580,7 @@
 | 1985B | [Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/1985/B%20-%20Maximum%20Multiple%20Sum/solution.cpp) |
 | 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.cpp) |
 | 2234A | [Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/2234/A%20-%20Euclid%2C%20Sequence%20and%20Two%20Numbers/solution.cpp) |
+| 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.cpp) |
 
 ### probabilities
 
