@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 264 | 24 |
+| 265 | 24 |
 
 ---
 
@@ -27,12 +27,12 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (75)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (134)
+- [implementation](#implementation) (135)
 - [math](#math) (106)
 - [number theory](#number-theory) (16)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (2)
-- [sortings](#sortings) (34)
+- [sortings](#sortings) (35)
 - [strings](#strings) (38)
 - [ternary search](#ternary-search) (1)
 - [two pointers](#two-pointers) (4)
@@ -324,6 +324,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 27A | [Next Test](https://codeforces.com/contest/27/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/27/A%20-%20Next%20Test/solution.cpp) |
 | 32B | [Borze](https://codeforces.com/contest/32/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/32/B%20-%20Borze/solution.cpp) |
 | 34A | [Reconnaissance 2](https://codeforces.com/contest/34/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/34/A%20-%20Reconnaissance%202/solution.cpp) |
 | 38A | [Army](https://codeforces.com/contest/38/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/38/A%20-%20Army/solution.cpp) |
@@ -608,6 +609,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 27A | [Next Test](https://codeforces.com/contest/27/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/27/A%20-%20Next%20Test/solution.cpp) |
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.cpp) |
 | 160B | [Unlucky Ticket](https://codeforces.com/contest/160/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/160/B%20-%20Unlucky%20Ticket/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
