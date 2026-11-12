@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 269 | 25 |
+| 270 | 25 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [binary search](#binary-search) (4)
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (58)
@@ -51,6 +51,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2290C | [Books on a Shelf](https://codeforces.com/contest/2290/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/2290/C%20-%20Books%20on%20a%20Shelf/solution.cpp) |
+| 2290D | [Letters Down](https://codeforces.com/contest/2290/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/2290/D%20-%20Letters%20Down/solution.cpp) |
 
 ### binary search
 
