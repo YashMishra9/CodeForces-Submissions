@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 268 | 24 |
+| 269 | 25 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
+- [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (4)
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (58)
@@ -44,6 +45,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2290C | [Books on a Shelf](https://codeforces.com/contest/2290/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/YashMishra9/CodeForces-Submissions/blob/HEAD/2290/C%20-%20Books%20on%20a%20Shelf/solution.cpp) |
 
 ### binary search
 
